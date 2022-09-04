@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DieselWeasel1
+- 👀 I’m interested in Maths & Machine Learning
+- 🌱 I’m currently learning Javascript & Python
+- 📫 How to reach me: Discord, Roberto#2951
